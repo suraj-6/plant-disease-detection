@@ -4,13 +4,14 @@
 This project uses machine learning to detect plant diseases from images.
 
 ## Screenshots
+# Dashboard
+Here's a view of the interface when detecting a plant disease:
+![image alt]((https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174626.png?raw=true))
 
-Here's a view of the interface when detecting a healthy plant:
-![Healthy Plant Detection](Screenshot 2025-06-14 174626.png)
+picture of an diseased plant:
+![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174729.png?raw=true)
 
-Another view showing a diseased plant:
-![Diseased Plant Detection](Screenshot 2025-06-14 174712.png)
+Another view showing a diseased plant recognition by predicting the disease:
+![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174712.png?raw=true)
 
-And a final look at the prediction results:
-![Prediction Results](Screenshot 2025-06-14 174729.png)
 
