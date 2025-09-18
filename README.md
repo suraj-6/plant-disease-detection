@@ -13,9 +13,16 @@
 
 ## 📸 Project Screenshots
 
-| Dashboard | Disease Prediction | AI-Powered Remedy |
-|-----------|---------------------|-------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Prediction](screenshots/prediction.png) | ![Remedy](screenshots/remedy.png) |
+## Screenshots
+# Dashboard
+Here's a view of the interface when detecting a plant disease:
+![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174626.png?raw=true)
+
+picture of an diseased plant:
+![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174729.png?raw=true)
+
+Another view showing a diseased plant recognition by predicting the disease:
+![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174712.png?raw=true)
 
 > 💡 *Replace placeholder image paths above with actual screenshots of your app. Store images in `/screenshots/` folder.*
 
@@ -89,15 +96,5 @@ Dataset source: Publicly available plant disease datasets (e.g., PlantVillage), 
 ```bash
 git clone https://github.com/[yourusername]/plant-disease-detection.git
 cd plant-disease-detection
-## Screenshots
-# Dashboard
-Here's a view of the interface when detecting a plant disease:
-![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174626.png?raw=true)
-
-picture of an diseased plant:
-![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174729.png?raw=true)
-
-Another view showing a diseased plant recognition by predicting the disease:
-![image alt](https://github.com/suraj-6/plant-disease-detection/blob/main/Screenshot%202025-06-14%20174712.png?raw=true)
 
 
