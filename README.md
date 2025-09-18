@@ -126,6 +126,8 @@ env
 GOOGLE_API_KEY=your_gemini_api_key_here
 🔑 Get your free API key: https://aistudio.google.com/app/apikey
 
+
+run the ipynb files of train and test data accordingly
 Place your model & assets
 Ensure these files are in the project root:
 
