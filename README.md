@@ -94,7 +94,48 @@ Dataset source: Publicly available plant disease datasets (e.g., PlantVillage), 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/[yourusername]/plant-disease-detection.git
+git clone https://github.com/suraj-6/plant-disease-detection.git
 cd plant-disease-detection
+Create virtual environment (optional but recommended)
+Bash
 
+python -m venv plant-env
+plant-env\Scripts\activate  # Windows
+# source plant-env/bin/activate  # Mac/Linux
+Install dependencies
+Create requirements.txt if not present:
+
+txt
+
+streamlit
+tensorflow
+numpy
+pillow
+google-generativeai
+python-dotenv
+Then install:
+
+Bash
+
+pip install -r requirements.txt
+Set up API Key
+Create a .env file in the root folder:
+
+env
+
+GOOGLE_API_KEY=your_gemini_api_key_here
+🔑 Get your free API key: https://aistudio.google.com/app/apikey
+
+Place your model & assets
+Ensure these files are in the project root:
+
+trained_plant_disease_model.keras
+imgplant1.webp (homepage banner)
+logo.jpg (sidebar logo — optional)
+Screenshots in /screenshots/ folder (optional)
+Run the app
+Bash
+
+streamlit run main.py
+🌐 Open http://localhost:8501 and start diagnosing!
 
